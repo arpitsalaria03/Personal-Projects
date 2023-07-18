@@ -1,0 +1,10 @@
+id: E100
+name: Alisha
+phone: 273562782
+address: dhvceuu
+salary: 50000
+id: E101
+name: arpit
+phone: 43141325134
+address: fqfegerg
+salary: 30000

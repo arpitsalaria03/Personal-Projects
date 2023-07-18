@@ -1,0 +1,12 @@
+id: P100
+type: online
+date: 18/03/23
+customer_id: C100
+id: P104
+type: online
+date: 19/04/23
+customer_id: C104
+id: P200
+type: online
+date: 10/03/23
+customer_id: C105

@@ -1,0 +1,4 @@
+id: M101
+company: maruti
+model: swift
+price: 700000
