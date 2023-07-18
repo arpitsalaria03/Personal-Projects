@@ -1,0 +1,25 @@
+Name:arpit	ID:1001
+Wins:
+11
+Loses:
+15
+Name:niharika	ID:1002
+Wins:
+14
+Loses:
+9
+Name:kavish	ID:abcd
+Wins:
+11
+Loses:
+11
+Name:amit	ID:1003
+Wins:
+2
+Loses:
+1
+Name:ajay	ID:1234
+Wins:
+1
+Loses:
+4

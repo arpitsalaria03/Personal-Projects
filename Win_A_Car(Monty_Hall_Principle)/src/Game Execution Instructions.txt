@@ -1,0 +1,4 @@
+1. Game begins with running of welcome window.
+2. Game is account based as the player creates a game account and then plays.
+3. The data of all players is stored in "player_data.txt" file.
+4. The game updates the score of player in the data file as the player continues to play.
